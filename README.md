@@ -1,7 +1,1 @@
-# Draw Canvas
-Project aimed to develop an online, persistent, user-friendly and secure canvas to doodle.
-
-*Under development*
-
-# License
-Apache
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
